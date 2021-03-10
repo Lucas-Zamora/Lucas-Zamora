@@ -2,7 +2,13 @@
 
 Meu nome é Lucas Zamora! 🇧🇷
 
-Tenho 24 anos, sou formado em Engenharia Florestal, e estou mudando de carreira para poder seguir o que realmente é o meu sonho: programação. Resolvi sair da minha zona de conforto e enfrentar os desafios para me tornar um programador. Atualmente estou participando do bootcamp da Generation Brasil. Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e levarei isso para essa minha nova trajetoria. 
+Tenho 24 anos, sou formado em Engenharia Florestal, e estou mudando de carreira para poder seguir o que realmente é o meu sonho: programação.
+
+Resolvi sair da minha zona de conforto e enfrentar os desafios para me tornar um programador.
+
+Atualmente estou participando do bootcamp da Generation Brasil. 
+
+Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e levarei isso para essa minha nova trajetoria. 
 
 ### "Se você acreditar que uma coisa é impossível, você a tornará impossível" 🧠
 
