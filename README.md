@@ -7,7 +7,7 @@ Resolvi sair da minha zona de conforto e enfrentar os desafios para me tornar um
 Atualmente estou participando do bootcamp da Generation Brasil 💻
 Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e levarei isso para essa minha nova trajetoria. 
 
-### "Viver é se adaptar, e a cada passo eu dou o meu melhor " 🧠
+### "Se você acreditar que uma coisa é impossível, você a tornará impossível" 🧠
 
 - 📍 De Lençóis Paulista, SP - Atualmente São Paulo, SP
 - 💻 Em breve: Desenvolvedor Full Stack Java web
