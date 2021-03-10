@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá Mundo!! 👋
 
-<!--
-**Lucas-Zamora/Lucas-Zamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Zamora! 🇧🇷
 
-Here are some ideas to get you started:
+Tenho 24 anos, sou formado em Engenharia Florestal, e estou mudando de carreira para poder seguir o que realmente é o meu sonho: programação 💻
+Resolvi sair da minha zona de conforto e enfrentar os desafios para me tornar um programador. 
+Atualmente estou participando do bootcamp da Generation Brasil 💻
+Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e levarei isso para essa minha nova trajetoria. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### "Viver é se adaptar, e a cada passo eu dou o meu melhor " 🧠
+
+- 📍 De Lençóis Paulista, SP - Atualmente São Paulo, SP
+- 💻 Em breve: Desenvolvedor Full Stack Java web
+
+Minhas redes 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-zamora-2b3a34180/)](https://www.linkedin.com/in/lucas-zamora-2b3a34180/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/llucas.z/)](https://www.instagram.com/llucas.z/) 
+
