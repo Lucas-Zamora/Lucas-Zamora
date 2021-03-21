@@ -1,4 +1,4 @@
-# Olá Mundo!! 👋💻
+# Olá Mundo!! 🖖💻
 
 Meu nome é Lucas Zamora! 🇧🇷
 
