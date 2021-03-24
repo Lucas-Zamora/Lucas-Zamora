@@ -15,6 +15,15 @@ Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes
 - 📍 De Lençóis Paulista, SP - Atualmente São Paulo, SP
 - 💻 Em breve: Desenvolvedor Jr Java web Full Stack
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Zamora&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Lucas-Zamora&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
 Minhas redes 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-zamora-2b3a34180/)](https://www.linkedin.com/in/lucas-zamora-2b3a34180/)
