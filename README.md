@@ -13,7 +13,7 @@ Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes
 ### "Se você acreditar que uma coisa é impossível, você a tornará impossível" 🧠
 
 - 📍 De Lençóis Paulista, SP - Atualmente São Paulo, SP
-- 💻 Em breve: Desenvolvedor Jr Java web Full Stack
+- 💻 Em breve: Desenvolvedor Full Stack Java Jr 
 
 Minhas redes 👇🏼
 
