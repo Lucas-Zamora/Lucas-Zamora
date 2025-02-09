@@ -2,18 +2,14 @@
 
 Meu nome é Lucas Zamora! 🇧🇷
 
-Tenho 25 anos, sou formado em Engenharia Florestal, e estou mudando de carreira para poder seguir o que realmente é o meu sonho: programação.
+Tenho 28 anos, minha primeira formação é Engenharia Florestal, porém resolvi seguir para a área de tecnologia que foi possivel após ser aceito e concluir o Bootcamp da Generation Brasil, onde consegui um serviço como Trainee e iniciei a faculdade de Analise e Desenvolvimento de Sistemas. Conclui a formação de ADS em 2024, e iniciei uma nova formação em Cibersegurança, e tambem iniciei um curso de Analista de Dados. 
+Tenho um perfil explorador, onde sempre busco ampliar meu conhecimento e meu horizonte.
 
-Resolvi sair da minha zona de conforto e enfrentar os desafios para me tornar um programador.
-
-Atualmente estou participando do bootcamp da Generation Brasil. 
-
-Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e levarei isso para essa minha nova trajetoria. 
+Persistencia, dedicação, criatividade e adaptabilidade são meus pontos fortes, e sempre estarão comigo no decorrer da minha caminhada.
 
 ### "Se você acreditar que uma coisa é impossível, você a tornará impossível" 🧠
 
 - 📍 De Lençóis Paulista, SP - Atualmente São Paulo, SP
-- 💻 Desenvolvedor Full Stack Trainee
 
 Minhas redes 👇🏼
 
